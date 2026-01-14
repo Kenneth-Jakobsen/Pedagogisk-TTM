@@ -75,10 +75,10 @@ Transtheoretical Model of Behavior Change kan brukes til å forstå **hvordan st
 
 ## Tilbakefall i læring
 - Manglende progresjon, motivasjonsfall eller frustrasjon er normalt
-- Tilbakefall gir informasjon om hva eleven mangler
+- Tilbakefall gir informasjon om hva studenten mangler
 - Bør møtes med justering, ikke straff
 
 ---
 
 ## Pedagogisk hovedpoeng
-> God undervisning møter eleven der de er i læringsprosessen – ikke der vi ønsker at de skal være.
+> God undervisning møter studenten der de er i læringsprosessen – ikke der vi ønsker at de skal være.
