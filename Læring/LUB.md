@@ -25,12 +25,23 @@ Studenten:
 
 ### Undervisning (uke 1–2)
 - HTML = struktur (uke 1)
+  - Hvorfor lære HTML,CSS og JavaScript 
+  - Hvordan leser netteleseren HTML?
+  - Hva er egentlig `document`? 
+  - Html & elements, alt er en "boks"
+  - Hvordan bruke devtools
 - CSS = utseende (uke 1–2)
   - style
+  - default styles, 
+  - `display:block` stays on top
   - `display:grid`
-  - `display:flex`
+  - `display:flexbox`
+  - Tags, nested tags, IDs og classes
+  - %, em og rem.
+  - `console.log(getComputedStyle(document.getElementById('div--element')));`
 - JavaScript = interaktivitet (uke 2)
-- Bevisst repetisjon av i alle timer
+  - onclick, onchange
+- Bevisst repetisjon i alle timer
 
 ### Mål 
 - Studenten kan muntlig forklare forskjellen på HTML, CSS og JS
@@ -61,13 +72,13 @@ Studenten:
 
 ---
 
-## Oppgave/code along
+## Oppgave/code along i uke 2
 
 ### Oppgave
 Lag en enkel *business card* som:
 - viser tekst (HTML)
-- har minst én visuell endring (CSS)
-- har én interaksjon (JavaScript)
+- har minst én visuell stil (CSS)
+- har én interaksjon, f,eks bytte farge, legge til tekst (JavaScript)
 
 ### Eksempel på spørsmål
 - «Hva skjer når du refresher siden?»
