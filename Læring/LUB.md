@@ -29,6 +29,7 @@ Studenten:
   - Hvordan leser netteleseren HTML?
   - Hva er egentlig `document`? 
   - Html & elements, alt er en "boks"
+  - Semantisk HTML
   - Hvordan bruke devtools
 - CSS = utseende (uke 1–2)
   - style
@@ -41,7 +42,7 @@ Studenten:
   - `console.log(getComputedStyle(document.getElementById('div--element')));`
 - JavaScript = interaktivitet (uke 2)
   - onclick, onchange
-- Bevisst repetisjon i alle timer
+- repetisjon i alle timer
 
 ### Mål 
 - Studenten kan muntlig forklare forskjellen på HTML, CSS og JS
