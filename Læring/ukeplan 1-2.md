@@ -59,6 +59,19 @@ Studenten:
 
 ---
 
+### Formål med Planen
+- Støtte progresjon
+- Redusere frykt for vurdering
+- Bygge mestringstro
+
+### Metoder
+- Muntlige sjekkpunkter
+- Code along
+- Tilbake melding
+
+
+---
+
 ## Oppgave/code along i uke 2
 
 ### Oppgave
