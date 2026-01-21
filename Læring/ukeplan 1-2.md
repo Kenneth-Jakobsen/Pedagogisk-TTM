@@ -4,7 +4,7 @@ Fokus på:
 - mestring 
 - synlig progresjon
 - forståelse av sammenheng
-- funksjon av elementer, 
+- funksjon av elementer 
 ---
 
 ## Kompetansemål (Uke 1 -> Uke 2)
@@ -68,7 +68,6 @@ Studenten:
 - Muntlige sjekkpunkter
 - Code along
 - Tilbake melding
-
 
 ---
 
